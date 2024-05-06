@@ -1,0 +1,7 @@
+Format : startword -> target word 
+Test case 1 : sat → and
+Test case 2 :like  → four
+Test case 3 :found  → happy
+Test case 4 : nYlOn → illEr (sekaligus testing apakah bisa meng-handle kasus insensitive)
+Test case 5 : tanks → swarm
+Test case 6: quirking → wrathing
